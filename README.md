@@ -2,46 +2,52 @@
 
 Welcome to my GitHub profile!
 
-I am a **DPT student with a passion for AI in healthcare and intelligent systems**, actively exploring the intersection of medicine, artificial intelligence, and automation. I have participated in **3+ international hackathons**, building impactful AI-driven solutions for real-world problems.
+I am a **Doctor of Physical Therapy (DPT) student with a passion for AI in healthcare and intelligent systems**, actively exploring the intersection of medicine, artificial intelligence, and automation. I have participated in **3+ international hackathons**, building impactful AI-driven solutions for real-world healthcare and automation problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on AI-powered healthcare & automation systems  
-- 🌱 Currently learning AI agents, machine learning & healthcare informatics  
+- 🔭 Working on AI-powered healthcare & rehabilitation systems  
+- 🌱 Currently learning AI agents, machine learning & computer vision  
 - 👯 Looking to collaborate on AI + healthcare innovation projects  
-- 💬 Ask me about AI agents, hackathons, and healthcare tech  
+- 💬 Ask me about healthcare AI, hackathons, and rehabilitation tech  
 - ⚡ Passionate about building real-world impactful solutions in medicine  
 
 ---
 
 ## 🧠 Featured Projects
 
-| Project Name | Description | Domain | Key Focus |
-|--------------|-------------|--------|----------|
-| **QuantTrader AI** | AI agent designed to optimize trading experience using intelligent decision-making and data-driven strategies | FinTech / AI Agents | Trading optimization, predictive analysis |
-| **Rehaby AI** | Intelligent AI-based rehabilitation software that assists patients in recovery tracking and personalized therapy planning | Healthcare / Rehab Tech | Patient recovery, adaptive therapy |
-| **CareSync AI** | AI agent for automating hospital operations including patient flow, resource allocation, and medical inventory management | Healthcare / Automation | Hospital workflow automation |
+| Project Name | Description | Domain | Focus |
+|--------------|-------------|--------|-------|
+| **Rehaby AI** | AI-based physiotherapy system for movement analysis and rehabilitation support | Healthcare AI | Posture correction, rehab tracking |
+| **QuantTrader Lite** | AI trading assistant using real-time crypto data and LLM reasoning | AI Systems | Market analysis, decision support |
+| **CareSync AI** | AI system for automating hospital operations including patient flow, resource allocation, and medical inventory management | Healthcare Automation | Hospital workflow optimization |
 
 ---
 
 ## 🏆 Hackathons
 
-- Participated in **3+ international hackathons**
-- Built AI-powered healthcare and finance solutions under time constraints
-- Experience in pitching, product design, and team collaboration
+- Participated in **3+ international AI hackathons (lablab.ai)**  
+- Built AI solutions in healthcare and finance domains  
+- Experienced in teamwork, rapid prototyping, and AI product design  
 
 ---
-<a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7464935807271772160-VPU2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
-  <img src="web data california hackathon.png" alt="California Hackathon" width="800"/>
-</a>
+
 ## 📫 Connect With Me
 
-- LinkedIn: *(add your link here)*  
-- GitHub: *(you are already here 😊)*  
-- Email: *(optional)*  
+- 📧 Email: **alarat3311@gmail.com**  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/dr-amara-tariq/](https://www.linkedin.com/in/dr-amara-tariq/)  
+- 💻 GitHub: [https://github.com/DrAmaraTariq](https://github.com/DrAmaraTariq)
 
 ---
 
-⚡ *“Building AI systems that don’t just assist — but think, adapt, and transform healthcare.”*
+## ⚡ Hackathon Highlight
+
+<a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7464935807271772160-VPU2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
+  <img src="web data california hackathon.png" alt="Hackathon Highlight" width="800"/>
+</a>
+
+---
+
+> ⚡ *“Building AI systems that intelligently support healthcare, rehabilitation, and real-world decision-making.”*
