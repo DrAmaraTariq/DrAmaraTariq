@@ -44,8 +44,10 @@ I am a **Doctor of Physical Therapy (DPT) student with a passion for AI in healt
 
 ## ⚡ Hackathon Highlight
 
+## 🧠 Web Data Unlock Hackathon
+
 <a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7464935807271772160-VPU2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
-  <img src="web data california hackathon.png" alt="Hackathon Highlight" width="500"/>
+  <img src="web data california hackathon.png" alt="Web Data Unlock Hackathon" width="250"/>
 </a>
 
 ---
@@ -53,10 +55,9 @@ I am a **Doctor of Physical Therapy (DPT) student with a passion for AI in healt
 ## 🧠 AI Agent Olympic Hackathon
 
 <a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7460640071457587201-wJmy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
-  <img src="Ai Agent Olympic Hackathon..png" alt="AI Agent Olympic Hackathon" width="500"/>
+  <img src="Ai Agent Olympic Hackathon..png" alt="AI Agent Olympic Hackathon" width="250"/>
 </a>
 
-</a>
 ---
 
 > ⚡ *“Building AI systems that intelligently support healthcare, rehabilitation, and real-world decision-making.”*
