@@ -33,7 +33,9 @@ I am a **DPT student with a passion for AI in healthcare and intelligent systems
 - Experience in pitching, product design, and team collaboration
 
 ---
-
+<a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7464935807271772160-VPU2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
+  <img src="web data california hackathon.png" alt="California Hackathon" width="800"/>
+</a>
 ## 📫 Connect With Me
 
 - LinkedIn: *(add your link here)*  
