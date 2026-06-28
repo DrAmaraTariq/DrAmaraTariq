@@ -1,63 +1,171 @@
-## Hi there 👋 I'm Dr. Ammara Tariq
+<h1 align="center">
+Hi 👋, I'm Dr. Ammara Tariq
+</h1>
 
-Welcome to my GitHub profile!
+<h3 align="center">
+Doctor of Physical Therapy (DPT) Student • Research Enthusiast • AI in Healthcare
+</h3>
 
-I am a **Doctor of Physical Therapy (DPT) student with a passion for AI in healthcare and intelligent systems**, actively exploring the intersection of medicine, artificial intelligence, and automation. I have participated in **3+ international hackathons**, building impactful AI-driven solutions for real-world healthcare and automation problems.
+<p align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Research+Enthusiast;AI+for+Healthcare;Medical+Imaging;Neuroscience;Oncology;Open+Source+Contributor;Hackathon+Participant" />
 
-## 🚀 About Me
-
-- 🔭 Working on AI-powered healthcare & rehabilitation systems  
-- 🌱 Currently learning AI agents, machine learning & computer vision  
-- 👯 Looking to collaborate on AI + healthcare innovation projects  
-- 💬 Ask me about healthcare AI, hackathons, and rehabilitation tech  
-- ⚡ Passionate about building real-world impactful solutions in medicine  
+</p>
 
 ---
 
-## 🧠 Featured Projects
+# 💫 About Me
 
-| Project Name | Description | Domain | Focus |
-|--------------|-------------|--------|-------|
-| **Rehaby AI** | AI-based physiotherapy system for movement analysis and rehabilitation support | Healthcare AI | Posture correction, rehab tracking |
-| **QuantTrader Lite** | AI trading assistant using real-time crypto data and LLM reasoning | AI Systems | Market analysis, decision support |
-| **CareSync AI** | AI system for automating hospital operations including patient flow, resource allocation, and medical inventory management | Healthcare Automation | Hospital workflow optimization |
+🔬 Passionate about applying Artificial Intelligence to Healthcare.
 
----
+🧠 Interested in
 
-## 🏆 Hackathons
+- Medical Imaging
+- Brain Tumor Detection
+- Neuroscience
+- Oncology
+- Clinical Research
+- Machine Learning
+- Deep Learning
 
-- Participated in **3+ international AI hackathons (lablab.ai)**  
-- Built AI solutions in healthcare and finance domains  
-- Experienced in teamwork, rapid prototyping, and AI product design  
+🎓 Doctor of Physical Therapy (DPT) Student
 
----
+🌍 Open to Research Collaborations
 
-## 📫 Connect With Me
-
-- 📧 Email: **alarat3311@gmail.com**  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/dr-amara-tariq/](https://www.linkedin.com/in/dr-amara-tariq/)  
-- 💻 GitHub: [https://github.com/DrAmaraTariq](https://github.com/DrAmaraTariq)
+💡 Building AI-powered healthcare solutions.
 
 ---
 
-## ⚡ Hackathon Highlight
+# 🏆 Achievements
 
-## 🧠 Web Data Unlock Hackathon
+🏅 Interviewed by the US-based **Scrubs Podcast**
 
-<a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7464935807271772160-VPU2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
-  <img src="web data california hackathon.png" alt="Web Data Unlock Hackathon" width="250"/>
+🏅 Participated in multiple International AI Hackathons
+
+🏅 Research Consultant
+
+🏅 Working on AI + Healthcare projects
+
+🏅 Building open-source medical AI solutions
+
+---
+
+# 🚀 Currently Working On
+
+🧠 AI for Brain Tumor Detection
+
+🧬 AI in Neuroscience & Oncology
+
+📊 Medical Imaging Research
+
+🤝 International Research Collaborations
+
+---
+
+# 🌎 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
----
-
-## 🧠 AI Agent Olympic Hackathon
-
-<a href="https://www.linkedin.com/posts/dr-amara-tariq_ai-artificialintelligence-hackathon-share-7460640071457587201-wJmy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCGHisBoDcm6BDtQCerP40cO_oAf4gJ20k" target="_blank">
-  <img src="Ai Agent Olympic Hackathon..png" alt="AI Agent Olympic Hackathon" width="250"/>
+<a href="mailto:YOUREMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+</p>
+
 ---
 
-> ⚡ *“Building AI systems that intelligently support healthcare, rehabilitation, and real-world decision-making.”*
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,vscode,cpp,java,mysql" />
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrAmaraTariq&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAmaraTariq&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrAmaraTariq&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrAmaraTariq&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+⭐ AI in Healthcare
+
+⭐ Medical Imaging
+
+⭐ Deep Learning
+
+⭐ Machine Learning
+
+⭐ Research Projects
+
+---
+
+# 🏅 Hackathons
+
+🏆 AMD Hackathon Act II
+
+🏆 LabLab AI Agentic Olympics
+
+🏆 International AI Innovation Challenges
+
+---
+
+# 📚 Research Interests
+
+🧠 Neuroscience
+
+🧬 Oncology
+
+📊 Medical Imaging
+
+🤖 Artificial Intelligence
+
+🩺 Healthcare Innovation
+
+---
+
+# ✨ Quote
+
+> "Bridging Medicine and Artificial Intelligence to create real-world healthcare impact."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DrAmaraTariq&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
