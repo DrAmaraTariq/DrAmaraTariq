@@ -8,9 +8,9 @@
 
 <br/>
 
-# 🩺 Your Name Here
+# 🩺 Ammara Tariq
 
-### *Physician-Scientist in Training · Healthcare AI Researcher*
+### *Doctor of Physiotherapy in Training · Healthcare AI Researcher*
 
 <br/>
 
