@@ -16,7 +16,7 @@
 
 <!-- Animated typing banner — edit &lines= to update the cycling roles -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=%F0%9F%A9%BA+Future+Physician-Scientist;%F0%9F%A7%A0+Healthcare+AI+Researcher;%F0%9F%A4%96+Artificial+Intelligence+in+Medicine;%F0%9F%94%AC+Medical+Imaging+Research;%F0%9F%93%8A+Clinical+Data+Science;%F0%9F%A7%AC+Neuroscience+%26+Oncology;%F0%9F%8C%8D+Global+Health+Innovation;%F0%9F%9A%80+Building+the+Future+of+Healthcare" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=%F0%9F%A9%BA+Future+Physiotherapist-;%F0%9F%A7%A0+Healthcare+AI+Researcher;%F0%9F%A4%96+Artificial+Intelligence+in+Medicine;%F0%9F%94%AC+Medical+Imaging+Research;%F0%9F%93%8A+Clinical+Data+Science;%F0%9F%A7%AC+Neuroscience+%26+Oncology;%F0%9F%8C%8D+Global+Health+Innovation;%F0%9F%9A%80+Building+the+Future+of+Healthcare" alt="Typing SVG" />
 </a>
 
 <br/>
