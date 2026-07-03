@@ -64,7 +64,7 @@ An 8-week research initiative focused on using AI to support the detection of br
 <tr>
 <td width="100%" valign="top">
 
-### 🏃 Very Happy — Tele-Rehab Platform
+### 🏃 REHABBY — Tele-Rehab Platform
 A rehabilitation project designed for patients who find it difficult or too painful to travel to a hospital for physical therapy. **Very Happy** allows patients to complete their prescribed exercises safely from home, developed in collaboration with an international team.
 
 **My Role:** Research Contributor · Presentation Lead
@@ -74,7 +74,7 @@ A rehabilitation project designed for patients who find it difficult or too pain
 <tr>
 <td width="100%" valign="top">
 
-### 🏥 KeerSync AI — Hospital Supply Management
+### 🏥 careSync AI — Hospital Supply Management
 An AI-driven system built to help hospitals manage and track medical supplies more efficiently.
 
 **My Role:** Project Lead · Team Lead · Research Consultant
@@ -99,7 +99,7 @@ My first hands-on project while learning Python — a simple automated trading a
 
 ## 🏆 Achievements
 
-- 🎙️ **Featured Interview Guest** — Interviewed by a U.S.-based host, published on YouTube *(Outliers Channel & Futurescape Podcast — please confirm exact names/links before publishing)*
+- 🎙️ **Featured Interview Guest** — Interviewed by a U.S.-based host, published on YouTube *(future scrubs Podcast )*
 - 🥇 **Top Ranker** in my academic class
 - 🌍 International collaboration on a patient-centered tele-rehabilitation project
 - 🗣️ Volunteer English instructor
