@@ -64,37 +64,50 @@ An 8-week research initiative focused on using AI to support the detection of br
 <tr>
 <td width="100%" valign="top">
 
+### 🧬 LIVORA AI — Liver Health Intelligence Platform
+An AI-powered preventive healthcare platform designed to predict liver disease progression, analyze health reports, and provide personalized insights for early detection and continuous monitoring.
+
+**My Role:** Project Lead · AI Research Consultant · Product Strategy
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
 ### 🏃 REHABBY — Tele-Rehab Platform
-A rehabilitation project designed for patients who find it difficult or too painful to travel to a hospital for physical therapy. **Very Happy** allows patients to complete their prescribed exercises safely from home, developed in collaboration with an international team.
+An AI-powered rehabilitation platform designed for patients who find it difficult or painful to travel to hospitals for physical therapy. Rehaby enables patients to perform prescribed exercises safely from home through intelligent monitoring and personalized guidance, developed in collaboration with an international team.
 
 **My Role:** Research Contributor · Presentation Lead
 
 </td>
 </tr>
+
 <tr>
 <td width="100%" valign="top">
 
-### 🏥 careSync AI — Hospital Supply Management
-An AI-driven system built to help hospitals manage and track medical supplies more efficiently.
+### 🏥 CareSync AI — Hospital Supply Management
+An AI-driven system built to help hospitals predict supply shortages, optimize inventory management, and improve healthcare resource availability.
 
 **My Role:** Project Lead · Team Lead · Research Consultant
 
 </td>
 </tr>
+
 <tr>
 <td width="100%" valign="top">
 
 ### 📈 Trading Agent
-My first hands-on project while learning Python — a simple automated trading agent built to strengthen my programming fundamentals.
+My first hands-on project while learning Python — a simple automated trading agent built to strengthen my programming fundamentals and explore AI-driven decision systems.
 
 **My Role:** Developer
 
 </td>
 </tr>
+
 </table>
 
 <br/>
-
 ---
 
 ## 🏆 Achievements
